@@ -4,6 +4,7 @@ loadModule('prison/lib/utils.js');
 loadModule('prison/lib/sampa.js');
 loadModule('prison/lib/edit.js');
 loadModule('prison/lib/highlight.js');
+loadModule('prison/lib/multiple.js');
 loadModule('prison/lib/vendor/jquery-svgpan.js');
 loadModule('prison/lib/vendor/treelib.js');
 loadModule('prison/lib/newick.js');

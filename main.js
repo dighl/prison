@@ -16,7 +16,8 @@ PRISON['modules'] = {
   'edit' : ['utils'],
   'sampa' : [],
   'utils' : [],
-  'pinyin': []
+  'pinyin': [],
+  'multiple' : ['utils','highlight']
 };
 
 PRISON._loadModule = function (module)
