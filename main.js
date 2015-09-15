@@ -17,7 +17,8 @@ PRISON['modules'] = {
   'sampa' : [],
   'utils' : [],
   'pinyin': [],
-  'multiple' : ['utils','highlight']
+  'multiple' : ['utils','highlight'],
+  'features' : []
 };
 
 PRISON._loadModule = function (module)
