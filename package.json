@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/dighl/prison#readme",
   "dependencies": {
+    "jshint": "^2.8.0",
     "requirejs": "^2.1.20"
   }
 }

@@ -6,6 +6,7 @@
     "_": false
   , "$": false
   , "requirejs": false
+  , "require": false
   , "define": false
   , "window": false
   , "console": false

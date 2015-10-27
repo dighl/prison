@@ -90,3 +90,5 @@ sympy-plots-for-*.tex/
 
 # npm packages
 node_modules
+# Minified main.js:
+main.min.js
