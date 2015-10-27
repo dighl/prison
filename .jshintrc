@@ -1,0 +1,14 @@
+{
+  "laxcomma": true
+, "laxbreak": true
+, "globalstrict": true
+, "globals": {
+    "_": false
+  , "$": false
+  , "requirejs": false
+  , "define": false
+  , "window": false
+  , "console": false
+  , "document": false
+  }
+}
