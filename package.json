@@ -1,0 +1,26 @@
+{
+  "name": "prison",
+  "version": "1.0.0",
+  "description": "JavaScript Library for Historical Linguistics",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dighl/prison.git"
+  },
+  "keywords": [
+    "Historical",
+    "Linguistics"
+  ],
+  "author": "https://github.com/LinguList",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/dighl/prison/issues"
+  },
+  "homepage": "https://github.com/dighl/prison#readme",
+  "dependencies": {
+    "requirejs": "^2.1.20"
+  }
+}
