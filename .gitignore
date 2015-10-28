@@ -87,3 +87,8 @@ sympy-plots-for-*.tex/
 
 # xindy
 *.xdy
+
+# npm packages
+node_modules
+# Minified main.js:
+main.min.js
