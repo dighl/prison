@@ -11,5 +11,7 @@
   , "window": false
   , "console": false
   , "document": false
+  , "Blob": false
+  , "XMLSerializer": false
   }
 }
